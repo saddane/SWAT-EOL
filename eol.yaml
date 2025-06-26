@@ -10,12 +10,16 @@ php:
     eol: 2021-12-06
   - version: '7.4'
     eol: 2022-11-28
+  - version: '8.0'
+    eol: 2023-11-26
   - version: '8.1'
     eol: 2025-12-31
   - version: '8.2'
     eol: 2026-12-31
   - version: '8.3'
-    eol: 2025-11-23
+    eol: 2027-12-31
+  - version: '8.4'
+    eol: 2028-12-31
 mariadb:
   - version: '10.0'
     eol: 2019-03-31
