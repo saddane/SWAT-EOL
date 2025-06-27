@@ -95,7 +95,7 @@ redis:
   - version: '6.2'
     eol: 2025-02-28
   - version: '7.0'
-    eol: 2023-08-15
+    eol: 2024-07-29
   - version: '7.2'
     eol: 2026-02-28
   - version: '7.4'
